@@ -1,2 +1,3 @@
-# Figma-Design
-All of my figma designs
+# FigmaDesign
+
+# All of my figma designs
